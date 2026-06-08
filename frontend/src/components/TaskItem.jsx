@@ -53,9 +53,13 @@ const TaskItem = ({ task, onUpdate, onDelete }) => {
             className="input-modern"
           />
           <div className="flex gap-2">
-            <button type="submit" className="btn-primary py-1.5 px-3 text-sm flex items-center gap-1">
-              <Save size={16} /> Save
-            </button>
+                  <button
+          type="submit"
+          className="btn-primary !bg-blue-500 text-white py-1.5 px-3 text-sm flex items-center gap-1"
+        >
+          <Save size={16} /> Save
+        </button>
+
             <button type="button" onClick={() => setIsEditing(false)} className="btn-secondary py-1.5 px-3 text-sm flex items-center gap-1">
               <X size={16} /> Cancel
             </button>
