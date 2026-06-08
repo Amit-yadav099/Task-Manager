@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <h1 align="center">Task Management Web Application </h1>
-     <img src="public/DashboardPage.png" alt="Project Banner">
+     <img src="./frontend/public/DashboardPage.png" alt="Project Banner">
   <br />
 
   <div>
@@ -24,7 +24,7 @@ A modern, full‑stack task management web application built with the MERN stack
 
 ## 🚀 Live Demo
 
-🔗 **Live URL:** https://your-project-url.com
+🔗 **Live URL:** https://task-manager-flame-alpha-87.vercel.app/
 
 
 ## <a name="features">✨ Features</a>
@@ -121,15 +121,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 **Login and Register Pages**
 
-<img src="public/registerPage.png" alt="register page">
-<img src="public/loginPage.png" alt="login page">
+<img src="./frontend/public/registerPage.png" alt="register page">
+<img src="./frontend/public/loginPage.png" alt="login page">
 
 
 <br>
 <br>
 
 **Dahboard Page**
-<img src="public/DashboardPage.png" alt="dashboard Page">
+<img src="./frontend/public/DashboardPage.png" alt="dashboard Page">
 
 
 <br>
@@ -138,28 +138,28 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 **CRUD operations**
  
 Task Creation
-<img src="public/TaskCreation.png" alt="creation">
+<img src="./frontend/public/TaskCreation.png" alt="creation">
 
 Task deletion
-<img src="public/TaskDeletion.png" alt="deletion Task">
+<img src="./frontend/public/TaskDeletion.png" alt="deletion Task">
 
 Task updation
-<img src="public/TaskEditing.png" alt="updation Task">
+<img src="./frontend/public/TaskEditing.png" alt="updation Task">
 
 List of all created Tasks
-<img src="public/CreatedTask.png" alt="created Task">
+<img src="./frontend/public/CreatedTask.png" alt="created Task">
 <br>
 
 **Filter**
 
 Pending Task filter
-<img src="public/pendingStatus.png" alt="pending">
+<img src="./frontend/public/pendingStatus.png" alt="pending">
 
 Completed Task Filter
-<img src="public/CompletedStatus.png" alt="completed">
+<img src="./frontend/public/CompletedStatus.png" alt="completed">
 
 **pagination**
-<img src="public/pagination.png" alt="pagination">
+<img src="./frontend/public/pagination.png" alt="pagination">
 
 
 
